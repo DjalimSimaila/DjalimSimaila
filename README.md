@@ -1,5 +1,5 @@
 <h1 align="center"> 🌟 Congratulation! You have met me 🌟 </h1>
-<h2 align="center"> Object oriented developper, Linux entousiast  </h1>
+<h2 align="center"> Object oriented developper, Linux enthusiast  </h1>
 
 Hello fellow programmer, i'm Djalim and i love to break stuff
 
